@@ -1,6 +1,5 @@
 with open('24.txt') as f:
    letters=f.readline()
-   print(letters[0])
    count,maximum=0,0
    text=''
    delta=0
@@ -17,5 +16,4 @@ with open('24.txt') as f:
       if delta==2:
          count=0
          text=''
-         flag=False
 print(maximum)

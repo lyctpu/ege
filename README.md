@@ -7,4 +7,6 @@
 
 [ege2022](https://github.com/lyctpu/ege/blob/main/2022demo/ege2022.ipynb)
 
-[шаблоны кода]()
+[основные конструкции](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
+
+[шаблоны кода(в разработке)]()

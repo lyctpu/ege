@@ -4,6 +4,8 @@
 
 Материалы и демо егэ информатика
 
+[Сайт Полякова](https://kpolyakov.spb.ru/school/ege/generate.htm)
+
 [Тренажер КЕГЭ](https://kompege.ru/)
 
 [Тренажер КЕГЭ 2](https://4ege.ru/trening-informatika/63131-trenazher-kompjuternogo-ege-po-informatike.html)

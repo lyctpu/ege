@@ -4,12 +4,18 @@
 
 Материалы и демо егэ информатика
 
+[Тренажер КЕГЭ](https://kompege.ru/)
+
 [Загадка задач](https://github.com/lyctpu/ege/blob/main/%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%B0.exe)
 
 [Все команды](https://github.com/lyctpu/ege/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.md)
 
 [Основные конструкции](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
 
+«Двойка» — 0–39 баллов,
+«Тройка» — 40–56 баллов,
+«Четверка» — 57–72 баллов,
+«Пятерка» — от 73 баллов.
 
 
 ## Примеры задач
